@@ -150,10 +150,7 @@ button {
   padding-top: 2em;
   padding-bottom: 2em;
 }
-.sidebar col-lg-4 {
-    float: right;
-  position: absolute;
-}
+
 /* Media queries */
 
 @media screen and (min-width: 992px) {
