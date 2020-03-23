@@ -157,4 +157,16 @@ button {
   .navbar-brand > img {
     max-height: 80px;
   }
+
+  @media screen and (max-width: 320px) {
+    body {
+      font-size: 0.7rem;
+    }
+
+    @media screen and (max-width: 320px) {
+      .button1 {
+        size: 50%;
+      }
+    }
+  }
 }
