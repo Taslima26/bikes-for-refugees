@@ -41,6 +41,14 @@ button {
   /*  Challenge: can you make the navigation links orange on hover? */
 }
 
+/* Add sidebar here */
+
+.sidebar.article {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  flex-wrap: wrap;
+}
 /* Buttons */
 .button1 {
   transition-duration: 0.4s;
